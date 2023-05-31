@@ -32,7 +32,7 @@ mainsail_folder=~/mainsail
 
 ### The branch of the repository that you want to save your config
 ### By default that is 'master'
-branch=Eva-01 V0.2231
+branch=Eva01-V0.2231
 
 #####################################################################
 #####################################################################
